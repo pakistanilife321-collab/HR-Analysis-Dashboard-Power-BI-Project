@@ -2,7 +2,7 @@
 📌 Executive Summary 
 This project analyzes employee attrition to help HR leadership identify key drivers behind staff turnover and improve retention strategies. The interactive Power BI dashboard examines employee demographics, salary brackets, job roles, and tenure patterns across departments.
 ## 📸 Dashboard Preview
-![HR analysis dashboard](images/dashboard_screenshot.png)
+![HR analysis dashboard](/C:\Users\ixsin\Pictures\Data Analysts\HR_Analytics_PowerBi)
 
 
 ---
